@@ -1,10 +1,10 @@
-# Привіт, я Олександр!
+# Hello, I`m Oleksandr
 
-### Про мене
-- Вивчаю **Linux** та **Python** для побудови кар'єри в IT.
-- Моя мета: стати багатогранним спеціалістом.
+### About me
+- I am studying **Linux** and **Python** to build a career in IT.
+- My goal: to become a versatile specialist.
 
-### Технології
+### Technologies
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E94333?style=for-the-badge&logo=ubuntu&logoColor=white)
